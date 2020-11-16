@@ -1,0 +1,3 @@
+makeReactionRateSH.C
+
+LIB = $(FOAM_USER_LIBBIN)/libreactionRateSH
